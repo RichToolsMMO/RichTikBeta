@@ -1,1 +1,8 @@
-
+{
+  "updated": {
+    "version": "V1.0.1",
+    "idfile": "1rVkc1X796_CV3kuN_pFTwMiEWNPAmAIJ",
+    "listfiles": ".config/info.json:.config/error_log.txt:.config/notification.txt:options.ini",
+    "whatnew": "✴️"
+  }
+}
