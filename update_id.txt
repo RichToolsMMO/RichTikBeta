@@ -1,1 +1,8 @@
-
+{
+  "updated": {
+    "version": "1.0.2",
+    "idfile": "",
+    "listfiles": ".config/info.json:.config/error_log.txt:.config/notification.txt:options.ini",
+    "whatnew": "✴️"
+  }
+}
